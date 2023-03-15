@@ -1,0 +1,31 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(173, 173, 40);
+    justify-content: space-around;
+
+
+}
+
+.satu{
+    font-family: 'Courier New', Courier;
+    background: blue;
+    width: 30vb;
+    height: 30vh;
+}
+
+.dua{
+    font-family: 'Courier New', Courier;
+    background: red;
+    width: 30vb;
+    height: 30vh;
+}
+
+.tiga{
+    font-family: 'Courier New', Courier;
+    background: green;
+    width: 30vb;
+    height: 30vh;
+}

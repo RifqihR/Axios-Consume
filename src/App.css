@@ -1,0 +1,16 @@
+.container{
+  width: 300px;
+  background-color: aliceblue;
+  border-style: solid;
+  justify-content:space-between;
+  display: flex;
+  flex-direction: row;
+}
+
+.main{
+  justify-content: center;
+}
+
+table,tr,td{
+  border: 1px solid
+}
