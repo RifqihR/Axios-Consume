@@ -6,7 +6,7 @@ import TextAxios from "./page/TextAxios";
 
 function App() {
   return (
-    <TextAxios/>
+    <Page1/>
   );
 }
 

@@ -1,5 +1,5 @@
 {
-  "uuid": "e06db2ac-1897-4947-822e-01c5e7130e22",
+  "uuid": "62b60ecf-da8b-49f4-866b-98e957216c46",
   "lastMigration": 27,
   "name": "Bootcamp Tugas",
   "endpointPrefix": "",
@@ -9,14 +9,14 @@
   "folders": [],
   "routes": [
     {
-      "uuid": "4eedcf60-47df-4f2a-b58e-ef5758e9bac1",
+      "uuid": "0460387a-a128-4fbd-a6f1-615b358b43b9",
       "type": "http",
       "documentation": "",
       "method": "get",
       "endpoint": "",
       "responses": [
         {
-          "uuid": "11c41b81-47f0-4a23-af27-e12f08be46a5",
+          "uuid": "288f06c5-5462-4132-8960-18071f434314",
           "body": "{}",
           "latency": 0,
           "statusCode": 200,
@@ -40,7 +40,7 @@
   "rootChildren": [
     {
       "type": "route",
-      "uuid": "4eedcf60-47df-4f2a-b58e-ef5758e9bac1"
+      "uuid": "0460387a-a128-4fbd-a6f1-615b358b43b9"
     }
   ],
   "proxyMode": false,
